@@ -8,4 +8,5 @@ is uploaded o company ERP App.
 - **[Program runner](https://github.com/LuczynskiDar/brifutope/blob/master/src/main/java/com/java/window/brifutope/App.java)**
 - **[Swing window, GUI](https://github.com/LuczynskiDar/brifutope/blob/master/src/main/java/com/java/window/brifutope/BriFutoPeWindow.java)**
 - **[File opern and write controller](https://github.com/LuczynskiDar/brifutope/blob/master/src/main/java/com/java/window/brifutope/JxlControler.java)**
+- **[Excel file reader](https://github.com/LuczynskiDar/brifutope/blob/master/src/main/java/com/java/window/brifutope/JxlOpener.java)**
 - **[CSV writer](https://github.com/LuczynskiDar/brifutope/blob/master/src/main/java/com/java/window/brifutope/CsvWriter.java)**
